@@ -25,9 +25,6 @@ Responsive Design – Mobile-first implementation with media queries
 
 <img width="1883" height="906" alt="01" src="https://github.com/user-attachments/assets/f9efa125-9125-46cf-8b6a-7a6aca59b3e5" />
 
-<img width="450" height="791" alt="15" src="https://github.com/user-attachments/assets/999af7cc-3537-4cb3-ae40-b6df1df5763b" />
-&nbsp &nbsp &nbsp
-<img width="450" height="796" alt="16" src="https://github.com/user-attachments/assets/2df94d22-43e7-4787-84ef-98bda00f2827" />
 
 
 🌐 Live Demo
