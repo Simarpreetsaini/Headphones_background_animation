@@ -30,6 +30,8 @@ Responsive Design – Mobile-first implementation with media queries
 <img width="403" height="801" alt="16" src="https://github.com/user-attachments/assets/feec59c2-7870-41a7-a97e-0495f604c6ba" />
 
 
+
+
 🌐 Live Demo
 🔗 GitHub Pages: https://simarpreetsaini.github.io/Headphones_background_animation/
 
